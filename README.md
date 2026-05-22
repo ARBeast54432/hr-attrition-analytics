@@ -82,17 +82,16 @@ in **85 out of 100 cases** — actionable for real HR departments.
 | Dashboard | Power BI | Interactive 5-visual dashboard with slicers |
 | Version Control | Git + GitHub | Full project documentation |
 
----
-
 ## 📁 Project Structure
 
+```
 hr-attrition-analytics/
 │
 ├── 📓 notebooks/
-│   └── hr_analysis.ipynb        # Full Python analysis + ML model
+│   └── hr_analysis.ipynb
 │
 ├── 📊 powerbi/
-│   └── HR_Dashboard.pbix        # Interactive Power BI dashboard
+│   └── HR_Dashboard.pbix
 │
 ├── 📈 charts/
 │   ├── chart_dept.png
@@ -108,6 +107,8 @@ hr-attrition-analytics/
 │   └── sql_satisfaction.csv
 │
 └── README.md
+```
+
 ---
 
 ## 📂 Dataset
